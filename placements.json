@@ -1,0 +1,51 @@
+{
+  "viewfinder": {
+    "type": "image",
+    "path": "<PIL.Image.Image object at 0x00004B6CF90>",
+
+    "xy": [1950, 150],
+    "wh": [1800, 2700],
+
+    "beneath": true
+  },
+
+  "title": {
+    "type": "text",
+    "text": "Here lies the Title!",
+
+    "font": "/mnt/c/lyric/interesting/design/epsilon/fonts/AlteDIN1451.ttf",
+
+    "xy": [300, 300],
+    "wh": [1350, 1300]
+  },
+
+  "tags": {
+    "type": "text",
+    "text": "And this is where tags go. Such as, defloration, gyaru, unsual pupils, and so on.",
+
+    "font": "/mnt/c/lyric/interesting/design/epsilon/fonts/CascadiaMono.ttf",
+
+    "xy": [300, 1600],
+    "wh": [1350, 1100]
+  },
+
+  "link": {
+    "type": "text",
+    "text": "xy.9999",
+
+    "font": "/mnt/c/lyric/interesting/design/epsilon/fonts/Trispace.ttf",
+
+    "xy": [300, 2700],
+    "wh": [1350, 150]
+  },
+
+  "id": {
+    "type": "text",
+    "text": "000",
+
+    "xy": [3850, 250],
+    "wh": [130, 450],
+
+    "rotation": 270
+  }
+}
