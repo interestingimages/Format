@@ -1,7 +1,7 @@
 {
   "viewfinder": {
     "type": "image",
-    "path": "<PIL.Image.Image object at 0x00004B6CF90>",
+    "path": "",
 
     "xy": [1950, 150],
     "wh": [1800, 2700],
@@ -13,7 +13,7 @@
     "type": "text",
     "text": "Here lies the Title!",
 
-    "font": "/mnt/c/lyric/interesting/design/epsilon/fonts/AlteDIN1451.ttf",
+    "path": "design/fonts/AlteDIN1451.ttf",
 
     "xy": [300, 300],
     "wh": [1350, 1300]
@@ -23,7 +23,7 @@
     "type": "text",
     "text": "And this is where tags go. Such as, defloration, gyaru, unsual pupils, and so on.",
 
-    "font": "/mnt/c/lyric/interesting/design/epsilon/fonts/CascadiaMono.ttf",
+    "path": "design/fonts/CascadiaMono.ttf",
 
     "xy": [300, 1600],
     "wh": [1350, 1100]
@@ -33,7 +33,7 @@
     "type": "text",
     "text": "xy.9999",
 
-    "font": "/mnt/c/lyric/interesting/design/epsilon/fonts/Trispace.ttf",
+    "path": "design/fonts/Trispace.ttf",
 
     "xy": [300, 2700],
     "wh": [1350, 150]
