@@ -1,4 +1,9 @@
 {
+  ".meta": {
+    "author": "hysrx",
+    "version": "5.1.0"
+  },
+
   "viewfinder": {
     "type": "image",
     "path": "",
@@ -9,42 +14,71 @@
     "beneath": true
   },
 
+  "artist": {
+    "type": "image",
+    "text": "Author Name",
+
+    "path": "fonts/Trispace.ttf",
+
+    "xy": [300, 300],
+    "wh": [1350, 150],
+
+    "font_colour": [204, 204, 204],
+    "font_size": 100,
+    "font_variant": "ExtraLight"
+  },
+
   "title": {
     "type": "text",
     "text": "Here lies the Title!",
 
-    "path": "design/fonts/AlteDIN1451.ttf",
+    "path": "fonts/AlteDIN1451.ttf",
 
-    "xy": [300, 300],
-    "wh": [1350, 1300]
+    "xy": [300, 450],
+    "wh": [1350, 1150],
+
+    "font_size": 180
   },
 
   "tags": {
     "type": "text",
     "text": "And this is where tags go. Such as, defloration, gyaru, unsual pupils, and so on.",
 
-    "path": "design/fonts/CascadiaMono.ttf",
+    "path": "fonts/CascadiaMono.ttf",
 
     "xy": [300, 1600],
-    "wh": [1350, 1100]
+    "wh": [1350, 1100],
+
+    "font_colour": [204, 204, 204],
+    "font_size": 80,
+    "font_variant": "Light"
   },
 
   "link": {
     "type": "text",
     "text": "xy.9999",
 
-    "path": "design/fonts/Trispace.ttf",
+    "path": "fonts/Trispace.ttf",
 
     "xy": [300, 2700],
-    "wh": [1350, 150]
+    "wh": [1350, 150],
+
+    "font_colour": [77, 77, 77],
+    "font_size": 100,
+    "font_variant": "ExtraLight"
   },
 
   "id": {
     "type": "text",
     "text": "000",
 
+    "path": "fonts/Trispace.ttf",
+
     "xy": [3850, 250],
     "wh": [130, 450],
+
+    "font_colour": [193, 180, 255],
+    "font_size": 200,
 
     "rotation": 270
   }
