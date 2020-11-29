@@ -1,13 +1,13 @@
-# Design
+# Format
 
-The design for interesting images Catalogue Entries.
+The thumbnail design and accompanying text format for interesting images Catalogue Entries.
 
 Meant for usage in [interestingimages/categen](https://github.com/interestingimages/categen) alongside the
 [interestingimages/PrintingPress](https://github.com/interestingimages/PrintingPress) tool.
 
 ## Licenses
 
-The `source/thumbnail.ai` file is licensed under a
+The `thumnail/design/thumbnail.ai` file is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ### Fonts
@@ -20,7 +20,7 @@ I couldn't find the original LICENSE file - if anybody has it please do open an 
 
 License: OFL v1.1 (
 [OSI](https://opensource.org/licenses/OFL-1.1) /
-[File](https://github.com/interestingimages/Design/blob/master/fonts/AlteDIN1451-LICENSE.txt)
+[File](https://github.com/interestingimages/Design/blob/master/thumbnail/fonts/AlteDIN1451-LICENSE.txt)
 )
 
 ```
@@ -121,7 +121,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 License: OFL v1.1 (
 [OSI](https://opensource.org/licenses/OFL-1.1) /
-[File](https://github.com/interestingimages/Design/blob/master/fonts/CascadiaMono-LICENSE.txt)
+[File](https://github.com/interestingimages/Design/blob/master/thumbnail/fonts/CascadiaMono-LICENSE.txt)
 )
 
 ```
@@ -225,7 +225,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 License: OFL v1.1 (
 [OSI](https://opensource.org/licenses/OFL-1.1) /
-[File](https://github.com/interestingimages/Design/blob/master/fonts/Trispace-LICENSE.txt)
+[File](https://github.com/interestingimages/Design/blob/master/thumbnail/fonts/Trispace-LICENSE.txt)
 )
 
 ```
