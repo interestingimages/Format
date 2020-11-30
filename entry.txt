@@ -1,6 +1,6 @@
 **interesting images** Catalogue Entry ` f:number `
 
-**f:title.pretty** - f:title.jp f:creator
+**f:title.en-pretty** - f:title.jp-pretty f:creator
 f:parody
 f:characters
 f:tags
