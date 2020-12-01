@@ -1,7 +1,7 @@
 {
   ".meta": {
     "author": "hysrx",
-    "version": "5.1.1"
+    "version": "5.1.2"
   },
 
   "viewfinder": {
@@ -20,8 +20,10 @@
 
     "path": "fonts/Trispace.ttf",
 
+    "fit": true,
+
     "xy": [300, 300],
-    "wh": [1350, 150],
+    "wh": [1350, 98],
 
     "font_colour": [204, 204, 204],
     "font_size": 100,
@@ -35,7 +37,9 @@
     "path": "fonts/AlteDIN1451.ttf",
 
     "xy": [300, 450],
-    "wh": [1350, 1150],
+    "wh": [1350, 1050],
+
+    "fit": true,
 
     "font_size": 180
   },
@@ -44,10 +48,12 @@
     "type": "text",
     "text": "And this is where tags go. Such as, defloration, gyaru, unsual pupils, and so on.",
 
-    "path": "fonts/CascadiaMono.ttf",
+    "path": "fonts/Trispace.ttf",
 
     "xy": [300, 1600],
-    "wh": [1350, 1100],
+    "wh": [1350, 1050],
+
+    "fit": true,
 
     "font_colour": [204, 204, 204],
     "font_size": 80,
