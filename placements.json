@@ -1,7 +1,7 @@
 {
   ".meta": {
     "author": "hysrx",
-    "version": "5.1.4"
+    "version": "5.1.5"
   },
 
   "viewfinder": {
@@ -27,7 +27,7 @@
 
     "font_colour": [204, 204, 204],
     "font_size": 100,
-    "font_variant": "ExtraLight"
+    "font_variant": "Regular"
   },
 
   "title": {
@@ -57,7 +57,7 @@
 
     "font_colour": [204, 204, 204],
     "font_size": 80,
-    "font_variant": "Light"
+    "font_variant": "Regular"
   },
 
   "link": {
@@ -71,7 +71,7 @@
 
     "font_colour": [77, 77, 77],
     "font_size": 100,
-    "font_variant": "ExtraLight"
+    "font_variant": "Light"
   },
 
   "id": {
@@ -80,11 +80,12 @@
 
     "path": "thumbnail/fonts/Trispace.ttf",
 
-    "xy": [3850, 250],
-    "wh": [130, 450],
+    "xy": [3900, 136],
+    "wh": [432, 240],
 
     "font_colour": [193, 180, 255],
-    "font_size": 200,
+    "font_size": 215,
+    "font_variant": "Medium",
 
     "rotation": 270
   }
