@@ -1,7 +1,7 @@
 {
   ".meta": {
     "author": "hysrx",
-    "version": "5.1.3"
+    "version": "5.1.4"
   },
 
   "viewfinder": {
@@ -18,7 +18,7 @@
     "type": "text",
     "text": "Author Name",
 
-    "path": "fonts/Trispace.ttf",
+    "path": "thumbnail/fonts/Trispace.ttf",
 
     "fit": true,
 
@@ -34,7 +34,7 @@
     "type": "text",
     "text": "Here lies the Title!",
 
-    "path": "fonts/AlteDIN1451.ttf",
+    "path": "thumbnail/fonts/AlteDIN1451.ttf",
 
     "xy": [300, 450],
     "wh": [1350, 1050],
@@ -48,7 +48,7 @@
     "type": "text",
     "text": "And this is where tags go. Such as, defloration, gyaru, unsual pupils, and so on.",
 
-    "path": "fonts/Trispace.ttf",
+    "path": "thumbnail/fonts/Trispace.ttf",
 
     "xy": [300, 1600],
     "wh": [1350, 1050],
@@ -64,7 +64,7 @@
     "type": "text",
     "text": "xy.9999",
 
-    "path": "fonts/Trispace.ttf",
+    "path": "thumbnail/fonts/Trispace.ttf",
 
     "xy": [300, 2700],
     "wh": [1350, 150],
@@ -78,7 +78,7 @@
     "type": "text",
     "text": "000",
 
-    "path": "fonts/Trispace.ttf",
+    "path": "thumbnail/fonts/Trispace.ttf",
 
     "xy": [3850, 250],
     "wh": [130, 450],
