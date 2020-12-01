@@ -1,7 +1,7 @@
 {
   ".meta": {
     "author": "hysrx",
-    "version": "5.1.2"
+    "version": "5.1.3"
   },
 
   "viewfinder": {
@@ -15,7 +15,7 @@
   },
 
   "artist": {
-    "type": "image",
+    "type": "text",
     "text": "Author Name",
 
     "path": "fonts/Trispace.ttf",
