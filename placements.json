@@ -16,7 +16,7 @@
 
   "artist": {
     "type": "text",
-    "text": "Author Name",
+    "text": "<[creator.artist]>",
 
     "path": "thumbnail/fonts/Trispace.ttf",
 
@@ -32,7 +32,7 @@
 
   "title": {
     "type": "text",
-    "text": "Here lies the Title!",
+    "text": "<[title.english.pretty]>",
 
     "path": "thumbnail/fonts/AlteDIN1451.ttf",
 
@@ -46,7 +46,7 @@
 
   "tags": {
     "type": "text",
-    "text": "And this is where tags go. Such as, defloration, gyaru, unsual pupils, and so on.",
+    "text": "<[tags.interest]>",
 
     "path": "thumbnail/fonts/Trispace.ttf",
 
@@ -62,7 +62,7 @@
 
   "link": {
     "type": "text",
-    "text": "xy.9999",
+    "text": "<[slink]>",
 
     "path": "thumbnail/fonts/Trispace.ttf",
 
@@ -76,7 +76,7 @@
 
   "id": {
     "type": "text",
-    "text": "000",
+    "text": "<[entry_id]>",
 
     "path": "thumbnail/fonts/Trispace.ttf",
 
