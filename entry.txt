@@ -1,10 +1,8 @@
-**interesting images** Catalogue Entry ` f:number `
+<[bold]>interesting images<[bold]> Catalogue Entry <[scode]> <[entry_id]> <[scode]>
 
-**f:title.en-pretty** - f:title.jp-pretty f:creator
-f:parody
-f:characters
-f:tags
+<[bold]><[title.english.pretty]><[bold]> - <[title.japanese.pretty]> <[creator]><[parody]><[characters]>
+<[tags]>
 
-**f:rating/10** f:desc
+<[bold]><[f:rating]>/10<[bold]> f:desc
 
-**f:link**
+<[bold]>f:link<[bold]>
