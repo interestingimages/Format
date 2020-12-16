@@ -5,4 +5,4 @@
 
 <[bold]><[rating]>/10<[-bold]> f:desc
 
-<[bold]>f:link<[-bold]>
+<[bold]><[slink]><[-bold]>
