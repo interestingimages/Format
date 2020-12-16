@@ -1,8 +1,8 @@
-<[bold]>interesting images<[bold]> Catalogue Entry <[scode]> <[entry_id]> <[scode]>
+<[bold]>interesting images<[-bold]> Catalogue Entry <[scode]> <[entry_id]> <[-scode]>
 
-<[bold]><[title.english.pretty]><[bold]> - <[title.japanese.pretty]> <[creator]><[parody]><[characters]>
+<[bold]><[title.english.pretty]><[-bold]> - <[title.japanese.pretty]> <[creator]><[parody]><[characters]>
 <[tags]>
 
-<[bold]><[f:rating]>/10<[bold]> f:desc
+<[bold]><[f:rating]>/10<[-bold]> f:desc
 
-<[bold]>f:link<[bold]>
+<[bold]>f:link<[-bold]>
