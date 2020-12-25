@@ -8,85 +8,55 @@
     "type": "image",
     "path": "",
 
-    "xy": [1950, 150],
-    "wh": [1800, 2700],
+    "xy": [100, 100],
+    "wh": [2800, 2100],
 
     "beneath": true
-  },
-
-  "artist": {
-    "type": "text",
-    "text": "<[creator.artist]>",
-
-    "path": "thumbnail/fonts/Trispace.ttf",
-
-    "fit": true,
-
-    "xy": [300, 300],
-    "wh": [1350, 98],
-
-    "font_colour": [204, 204, 204],
-    "font_size": 100,
-    "font_variant": "Regular"
-  },
-
-  "title": {
-    "type": "text",
-    "text": "<[title.english.pretty]>",
-
-    "path": "thumbnail/fonts/AlteDIN1451.ttf",
-
-    "xy": [300, 450],
-    "wh": [1350, 1050],
-
-    "fit": true,
-
-    "font_size": 180
-  },
-
-  "tags": {
-    "type": "text",
-    "text": "<[tags.interest]>",
-
-    "path": "thumbnail/fonts/Trispace.ttf",
-
-    "xy": [300, 1600],
-    "wh": [1350, 1050],
-
-    "fit": true,
-
-    "font_colour": [204, 204, 204],
-    "font_size": 80,
-    "font_variant": "Regular"
-  },
-
-  "link": {
-    "type": "text",
-    "text": "<[slink]>",
-
-    "path": "thumbnail/fonts/Trispace.ttf",
-
-    "xy": [300, 2700],
-    "wh": [1350, 150],
-
-    "font_colour": [77, 77, 77],
-    "font_size": 100,
-    "font_variant": "Light"
   },
 
   "id": {
     "type": "text",
     "text": "<[entry_id]>",
 
-    "path": "thumbnail/fonts/Trispace.ttf",
+    "path": "fonts/Trispace.ttf",
 
-    "xy": [3900, 136],
-    "wh": [432, 240],
+    "xy": [2350, 1866],
+    "wh": [350, 170],
 
-    "font_colour": [193, 180, 255],
-    "font_size": 215,
-    "font_variant": "Medium",
+    "font_colour": [0, 0, 0],
+    "font_size": 179,
+    "font_variant": "Light"
+  },
 
-    "rotation": 270
+  "title": {
+    "type": "text",
+    "text": "<[title.english.pretty]>",
+
+    "path": "fonts/Manrope.ttf",
+
+    "xy": [100, 2300],
+    "wh": [2800, 850],
+
+    "fit": true,
+
+    "font_colour": [255, 255, 255],
+    "font_size": 700,
+    "font_variant": "Bold"
+  },
+
+  "tags": {
+    "type": "text",
+    "text": "<[tags.interest]>",
+
+    "path": "fonts/Manrope.ttf",
+
+    "xy": [100, 3250],
+    "wh": [2800, 590],
+
+    "fit": true,
+
+    "font_colour": [101, 101, 101],
+    "font_size": 220,
+    "font_variant": "Medium"
   }
 }
