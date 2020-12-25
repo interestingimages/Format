@@ -6,4 +6,4 @@
 
 <[bold]><[rating]>/10<[-bold]> <[description]>
 
-<[bold]><[slink]><[-bold]>0
+<[bold]><[slink]><[-bold]>
