@@ -1,7 +1,7 @@
-<[bold]>interesting images<[-bold]> Catalogue Entry <[scode]> <[entry_id]> <[-scode]>
+<[bold]>interesting images<[-bold]> Catalogue Entry <[scode]><[entry_id]><[-scode]> <[submission]>
 
 <[title]> <[creator]><[parody]><[characters]><[tags.remainder]>
 
-<[bold]><[rating]>/10<[-bold]> <[description]>
+<[bold]><[rating]>/10<[-bold]> <[description]> <[rating]>
 
 <[bold]><[slink]><[-bold]>
