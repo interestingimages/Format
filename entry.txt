@@ -2,6 +2,6 @@
 
 <[title]> <[creator]><[parody]><[characters]><[tags.remainder]>
 
-<[bold]><[rating]>/10<[-bold]> <[description]> <[rating]>
+<[bold]><[score]>/10<[-bold]> <[description]> <[rating]>
 
 <[bold]><[slink]><[-bold]>
