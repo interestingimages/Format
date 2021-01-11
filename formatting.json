@@ -1,5 +1,7 @@
 {
     "characters": "\nFeaturing <[parody]>",
     "parody": "\nParodying <[parody]>",
-    "tags.remainder": "\n\n<[italic]><[tags.remainder]><[-italic]>"
+    "tags.remainder": "\n\n<[italic]><[tags.remainder]><[-italic]>",
+    "description": "\n\n<[description]>",
+    "rating": "\n\n<[rating]>"
 }
