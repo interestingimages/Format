@@ -1,4 +1,6 @@
-<[bold]>interesting images<[-bold]> Catalogue Entry <[scode]><[entry_id]><[-scode]> <[submission]>
+<[bold]>interesting images<[-bold]> Catalogue Entry <[scode]><[entry_id]><[-scode]>
+
+<[submission]>
 
 <[title]> <[creator]><[parody]><[characters]><[tags.remainder]> <[description]>
 
